@@ -1,0 +1,8 @@
+Things that I would like to parse-
+
+REMOVE
+    stop words --> map for holding them from website
+    numbers DONE
+
+STEM
+    use porter2 stemmer to chop up words --> quicker
